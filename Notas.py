@@ -7,6 +7,3 @@ if promedio>=3:
     print("Aprobó la materia: ",promedio)
 else:
     print("Reprobó la materia: ",promedio)
-    
-
-    
